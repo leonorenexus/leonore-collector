@@ -46,7 +46,7 @@ Unauthorized use of these tools against systems you do not own or have explicit 
 ```bash
 pkg update && pkg upgrade -y
 pkg install git python python2 curl wget -y
-git clone https://github.com/<YOUR_USERNAME>/leonore-collection
+git clone https://github.com/leonorenexus/leonore-collector
 cd leonore-collection
 bash setup-leonore.sh
 🚀 Usage
@@ -96,6 +96,6 @@ EXPLICIT WRITTEN PERMISSION FROM THE TARGET OWNER.
 2. Upload file `setup-leonore.sh` + `README.md` ke repo itu
 3. Di Termux tinggal:
 ```bash
-git clone https://github.com/<username-lo>/leonore-collection
+git clone https://github.com/leonorenexus/leonore-collector
 cd leonore-collection
 bash setup-leonore.sh
